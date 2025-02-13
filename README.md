@@ -1,2 +1,1 @@
-# Game-Perangka
-Permainan Kereta Angka
+# lizadian.github.io
